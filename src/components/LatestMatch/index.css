@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.latest-match-container {
+  background-color: #0f172a;
+  border-radius: 10px;
+  width: 100%;
+  padding: 20px;
+  color: #ffffff;
+  font-family: 'Bree Serif';
+}
+
+.match-details {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.content-container {
+  width: 70%;
+}
+
+.name {
+  font-size: 20px;
+}
+
+.date {
+  font-size: 18px;
+}
+
+.small-text {
+  font-size: 12px;
+}
+
+.competing-team-logo {
+  width: 60px;
+  margin-left: auto;
+}
+
+.separator {
+  border: 1px solid #475569;
+}

@@ -1,0 +1,61 @@
+/* Write your CSS here */
+.team-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  min-height: 100vh;
+}
+
+.rcb-team {
+  background-image: linear-gradient(to bottom, #1e293b, #a4261d);
+}
+
+.kkr-team {
+  background-image: linear-gradient(to bottom, #5755a7, #0f172a);
+}
+
+.kxp-team {
+  background-image: linear-gradient(to bottom, #d91c1f, #0f172a);
+}
+
+.csk-team {
+  background-image: linear-gradient(to bottom, #f7db00, #0f172a);
+}
+
+.rr-team {
+  background-image: linear-gradient(to top, #da237b, #13418b);
+}
+
+.mi-team {
+  background-image: linear-gradient(to bottom, #13418b, #0f172a);
+}
+
+.sh-team {
+  background-image: linear-gradient(to bottom, #f26d22, #0f172a);
+}
+
+.dc-team {
+  background-image: linear-gradient(to right, #4f5db0, #d91c1f);
+}
+
+.banner-img {
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.sub-heading {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 16px;
+  align-self: flex-start;
+}
+
+.recent-matches-container {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
