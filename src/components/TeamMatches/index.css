@@ -59,3 +59,22 @@
   justify-content: space-between;
   flex-wrap: wrap;
 }
+
+.back-btn {
+  margin-right: 10px;
+  color: #000000;
+  background-color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 20px;
+  cursor: pointer;
+  outline: none;
+}
+
+.back-link {
+  text-decoration: none;
+  align-self: flex-end;
+}
